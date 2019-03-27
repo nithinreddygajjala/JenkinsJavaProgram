@@ -11,5 +11,6 @@ public class Demo {
        }
 
        System.out.println("Sum of first 10 natural numbers is: "+total);
+       System.out.println("Welcome Back Nithin Reddy Gajjala");
     }
 }
